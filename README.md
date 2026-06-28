@@ -1,6 +1,8 @@
-🌐 Personal Portfolio Website
+**🌐 Personal Portfolio Website**
+
 Welcome to my personal portfolio website! This website showcases my skills, projects, certifications, and contact information.
-📌 About
+
+**📌 About**
 
 I am **Maryam Uzair**, a BS Computer Science student at Riphah International University. This portfolio represents my journey in software development and highlights the projects and technologies I have worked with.
 
